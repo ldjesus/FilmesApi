@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\data\\dto\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:data\\dto\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\data\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:data\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\data\\dto\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:data\\dto\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|c:\\users\\leandro\\source\\pessoal\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBABB7A-8147-4EA7-B0F9-662BE1DEF323}|FilmesApi.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\ReadFilmeDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dto\\ReadFilmeDto.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\ReadFilmeDto.cs",
+              "RelativeToolTip": "Data\\Dto\\ReadFilmeDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:42:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\UpdateFilmeDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dto\\UpdateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\UpdateFilmeDto.cs",
+              "RelativeToolTip": "Data\\Dto\\UpdateFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:54:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\FilmeProfile.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeToolTip": "Profiles\\FilmeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:43:45.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:41:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Controllers\\FilmeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:37:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Models\\Filme.cs",
+              "RelativeToolTip": "Models\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:36:06.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\CreateFilmeDto.cs",
+              "RelativeDocumentMoniker": "Data\\Dto\\CreateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\leandro\\source\\pessoal\\FilmesApi\\Data\\Dto\\CreateFilmeDto.cs",
+              "RelativeToolTip": "Data\\Dto\\CreateFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:35:59.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 581,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 581,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
