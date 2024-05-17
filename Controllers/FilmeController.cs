@@ -10,7 +10,7 @@ namespace FilmesApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class FilmeController : Controller
+    public class FilmeController : ControllerBase
     {
         private FilmeContext _context;
         private IMapper _mapper;
@@ -21,7 +21,14 @@ namespace FilmesApi.Controllers
             _mapper = mapper;
         }
 
+        /// <summary>
+        /// Adiciona um filme ao banco de dados
+        /// </summary>
+        /// <param name="filmeDto">Objeto com os campos do filme</param>
+        /// <returns>IActionsResult</returns>
+        /// <response code="201">Caso de inserção seja feita com suscesso</response>
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
         public IActionResult AdicionarFilme([FromBody] CreateFilmeDto filmeDto)
         {
             Filme filme = _mapper.Map<Filme>(filmeDto);
@@ -37,7 +44,7 @@ namespace FilmesApi.Controllers
         {
             //Skip  quanto quer pular
             //take quanto quer pegar
-            return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take));
+            return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take).ToList());
         }
 
         [HttpGet("{id}")]
